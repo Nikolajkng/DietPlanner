@@ -10,21 +10,21 @@ export default function Navbar() {
           <Link
             href="/"
             className="text-4xl text-red-500 hover:text-red-400 font-semibold transition-colors">
-            🍖 DietPlanner
+            🍖 Diet Planner
           </Link>
         </div>
 
         {/* Menu options  */}
-        <div className="flex gap-8">
+        <div className="flex gap-8 items-center">
           <Link
             href="/meal-planner"
             className="text-2xl text-gray-700 hover:text-green-600 font-semibold transition-colors">
-            Kostplan
+            Meal Plans
           </Link>
           <Link
             href="/food"
             className="text-2xl text-gray-700 hover:text-green-600 font-semibold transition-colors">
-            Fødevarer
+            Foods
           </Link>
         </div>
       </div>
