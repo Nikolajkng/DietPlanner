@@ -1,13 +1,13 @@
+import React from "react";
+
 export default function Home() {
   return (
     <>
-    <div>
+    <div className="relative">
       <main>
-
-        <picture>
-          
-        </picture>
+        Test
       </main>
+     
     </div>
     </>
   );
