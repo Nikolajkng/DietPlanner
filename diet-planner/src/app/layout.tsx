@@ -31,7 +31,7 @@ export default function RootLayout({
         <Navbar/>
 
         <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
-          Footer
+          
         </footer>
         {children}
       </body>
