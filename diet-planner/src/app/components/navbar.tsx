@@ -9,13 +9,13 @@ export default function Navbar() {
         </div>
         <div className="flex gap-16">
           <Link
-            href="/meal-planner/MealPlanner"
+            href="meal-planner"
             className="text-3xl text-gray-700 hover:text-green-600 font-semibold transition-colors"
           >
             Kostplan
           </Link>
           <Link
-            href="/food/Food"
+            href="food"
             className="text-3xl text-gray-700 hover:text-green-600 font-semibold transition-colors"
           >
             Fødevarer

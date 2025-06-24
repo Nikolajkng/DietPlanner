@@ -28,7 +28,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <Navbar />
+        <Navbar/>
 
         <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
           Footer
