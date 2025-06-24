@@ -9,7 +9,7 @@ export default function Navbar() {
         </div>
         <div className="flex gap-16">
           <Link
-            href="meal-planner/MealPlanner"
+            href="/meal-planner/MealPlanner"
             className="text-3xl text-gray-700 hover:text-green-600 font-semibold transition-colors"
           >
             Kostplan
