@@ -4,7 +4,9 @@ import Navbar from "../components/navbar";
 export default function MealPlanner() {
   return (
     <>
-    page
+    <div>
+      hej med dig cao
+    </div>
     </>
   );
 }

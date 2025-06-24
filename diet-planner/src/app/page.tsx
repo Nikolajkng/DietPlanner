@@ -1,7 +1,14 @@
 export default function Home() {
   return (
     <>
-      Forsiden - Home
+    <div>
+      <main>
+
+        <picture>
+          
+        </picture>
+      </main>
+    </div>
     </>
   );
 }
