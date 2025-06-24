@@ -6,7 +6,7 @@ export default function Navbar() {
       <div className="max-w-3xl mx-auto flex flex-col items-center justify-center py-10">
         <Link
           href="/"
-          className="text-5xl font-extrabold text-green-600 tracking-tight mb-6 hover:underline"
+          className="text-5xl text-red-500 hover:text-red-400 font-semibold transition-colors"
         >
           DietPlanner
         </Link>
